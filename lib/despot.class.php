@@ -10,7 +10,7 @@
  */
 class Despot {
 	/**
-	 *	Available (handled) exception codes
+	 *	Available, and handled exception codes
 	 */
 	const ERROR_FATAL = 0,
 	      ERROR_404   = 404;
