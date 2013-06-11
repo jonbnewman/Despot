@@ -24,3 +24,7 @@ More information
 ----------------
 
 Coming soon.
+
+Licensing
+---------
+Despot is dual licensed under both the BSD and MIT copyleft licenses
