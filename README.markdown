@@ -1,4 +1,4 @@
-Despot
+THIS PROJECT IS ABANDONED - HISTORICAL ARCHIVE ONLY
 ===========
 
 Despot is a PHP 5.3+ based MVC library/framework. It is meant to be ultra light weight and straight-forward in its use. It's goal is
